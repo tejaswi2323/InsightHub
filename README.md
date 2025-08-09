@@ -17,6 +17,7 @@ InsightHub is a **Streamlit** web app that lets you:
 
 ---
 🙌 **Acknowledgements**
+
 LangChain for easy LLM integration
 
 Google Gemini for powerful Q&A
